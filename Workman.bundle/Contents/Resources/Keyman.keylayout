@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.0.4.75 on 2016-06-18 at 05:23 (EDT)-->
+<!--Last edited by Ukelele version 3.0.4.75 on 2016-06-18 at 05:27 (EDT)-->
 <!--Created by Ukelele version 2.2.3 on 2012-11-14 at 22:15 (EST)-->
 <keyboard group="126" id="-13874" name="Keyman" maxout="1">
 	<layouts>
@@ -35,7 +35,7 @@
 			<key code="6" output="z"/>
 			<key code="7" output="x"/>
 			<key code="8" output="m"/>
-			<key code="9" output="&#x0009;"/>
+			<key code="9" output="c"/>
 			<key code="10" output="§"/>
 			<key code="11" output="v"/>
 			<key code="12" output="q"/>
@@ -71,7 +71,7 @@
 			<key code="42" output="\"/>
 			<key code="43" output=","/>
 			<key code="44" output="/"/>
-			<key code="45" output="&#x000D;"/>
+			<key code="45" output="k"/>
 			<key code="46" output="l"/>
 			<key code="47" output="."/>
 			<key code="48" output="&#x0009;"/>
@@ -259,7 +259,7 @@
 			<key code="6" output="Z"/>
 			<key code="7" output="X"/>
 			<key code="8" output="M"/>
-			<key code="9" output="&#x0009;"/>
+			<key code="9" output="C"/>
 			<key code="10" output="0"/>
 			<key code="11" output="V"/>
 			<key code="12" output="Q"/>
@@ -295,7 +295,7 @@
 			<key code="42" output="|"/>
 			<key code="43" output=","/>
 			<key code="44" output="?"/>
-			<key code="45" output="&#x000D;"/>
+			<key code="45" output="K"/>
 			<key code="46" output="L"/>
 			<key code="47" output="."/>
 			<key code="48" output="&#x0009;"/>
