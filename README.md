@@ -1,6 +1,7 @@
 Workman keyboard layout for MacOS
 ===========
-
+![the layout is shown][0]
+[0]: http://img.hoff.in/workman/keyboard.jpeg
 
  * Copy to a Keyboard Layouts directory:
    * Copying the bundle to /Library/Keyboard Layouts/ requires administrator rights to the computer, but will allow the layout system-wide, including the OS X login screen. To enable input options on the login window, check the option in System Preferences / Users & Groups / Login Options / Show Input menu in login window.
