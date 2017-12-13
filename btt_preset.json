@@ -17,82 +17,42 @@
           "BTTEnabled" : 1,
           "BTTShortcutKeyCode" : -1,
           "BTTShortcutModifierKeys" : -1,
-          "BTTOrder" : 2,
+          "BTTOrder" : 3,
           "BTTKeySequence" : {
             "BTTPauseBetween" : 0.3,
             "BTTKeyCount" : 2,
             "BTTKeySequenceDownKeys" : [
               {
-                "BTTKEYCharacter" : "→",
-                "BTTKEYCode" : 124,
+                "BTTKEYCharacter" : "←",
+                "BTTKEYCode" : 123,
                 "BTTKEYDown" : 1,
                 "BTTKEYOrderRelevant" : 1,
                 "BTTKEYRequired" : 1,
-                "BTTKEYTime" : 5.348851e+08
+                "BTTKEYTime" : 5.348868e+08
               }
             ],
             "BTTKeySequenceMixedKeys" : [
               {
-                "BTTKEYCharacter" : "→",
-                "BTTKEYCode" : 124,
+                "BTTKEYCharacter" : "←",
+                "BTTKEYCode" : 123,
                 "BTTKEYDown" : 1,
                 "BTTKEYOrderRelevant" : 1,
                 "BTTKEYRequired" : 1,
-                "BTTKEYTime" : 5.348851e+08
+                "BTTKEYTime" : 5.348868e+08
               },
               {
                 "BTTKEYCode" : 57,
-                "BTTKEYTime" : 5.348851e+08
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1,
+                "BTTKEYTime" : 5.348868e+08
               }
             ],
             "BTTKeySequenceUpKeys" : [
               {
                 "BTTKEYCode" : 57,
-                "BTTKEYTime" : 5.348851e+08
-              }
-            ]
-          }
-        },
-        {
-          "BTTTriggerType" : 624,
-          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
-          "BTTPredefinedActionType" : 194,
-          "BTTPredefinedActionName" : "Toggle Caps Lock On\/Off",
-          "BTTEnabled" : 1,
-          "BTTShortcutKeyCode" : -1,
-          "BTTShortcutModifierKeys" : -1,
-          "BTTOrder" : 1,
-          "BTTKeySequence" : {
-            "BTTPauseBetween" : 0.3,
-            "BTTKeyCount" : 2,
-            "BTTKeySequenceDownKeys" : [
-              {
-                "BTTKEYCharacter" : "↑",
-                "BTTKEYCode" : 126,
-                "BTTKEYDown" : 1,
                 "BTTKEYOrderRelevant" : 1,
                 "BTTKEYRequired" : 1,
-                "BTTKEYTime" : 5.34885e+08
-              }
-            ],
-            "BTTKeySequenceMixedKeys" : [
-              {
-                "BTTKEYCharacter" : "↑",
-                "BTTKEYCode" : 126,
-                "BTTKEYDown" : 1,
-                "BTTKEYOrderRelevant" : 1,
-                "BTTKEYRequired" : 1,
-                "BTTKEYTime" : 5.34885e+08
-              },
-              {
-                "BTTKEYCode" : 57,
-                "BTTKEYTime" : 5.34885e+08
-              }
-            ],
-            "BTTKeySequenceUpKeys" : [
-              {
-                "BTTKEYCode" : 57,
-                "BTTKEYTime" : 5.34885e+08
+                "BTTKEYTime" : 5.348868e+08
               }
             ]
           }
@@ -115,8 +75,7 @@
                 "BTTKEYCode" : 125,
                 "BTTKEYDown" : 1,
                 "BTTKEYOrderRelevant" : 1,
-                "BTTKEYRequired" : 1,
-                "BTTKEYTime" : 5.34885e+08
+                "BTTKEYRequired" : 1
               }
             ],
             "BTTKeySequenceMixedKeys" : [
@@ -125,18 +84,19 @@
                 "BTTKEYCode" : 125,
                 "BTTKEYDown" : 1,
                 "BTTKEYOrderRelevant" : 1,
-                "BTTKEYRequired" : 1,
-                "BTTKEYTime" : 5.34885e+08
+                "BTTKEYRequired" : 1
               },
               {
                 "BTTKEYCode" : 57,
-                "BTTKEYTime" : 5.34885e+08
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1
               }
             ],
             "BTTKeySequenceUpKeys" : [
               {
                 "BTTKEYCode" : 57,
-                "BTTKEYTime" : 5.34885e+08
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1
               }
             ]
           }
@@ -149,38 +109,82 @@
           "BTTEnabled" : 1,
           "BTTShortcutKeyCode" : -1,
           "BTTShortcutModifierKeys" : -1,
-          "BTTOrder" : 3,
+          "BTTOrder" : 2,
           "BTTKeySequence" : {
             "BTTPauseBetween" : 0.3,
             "BTTKeyCount" : 2,
             "BTTKeySequenceDownKeys" : [
               {
-                "BTTKEYCharacter" : "←",
-                "BTTKEYCode" : 123,
+                "BTTKEYCharacter" : "→",
+                "BTTKEYCode" : 124,
                 "BTTKEYDown" : 1,
                 "BTTKEYOrderRelevant" : 1,
-                "BTTKEYRequired" : 1,
-                "BTTKEYTime" : 5.348851e+08
+                "BTTKEYRequired" : 1
               }
             ],
             "BTTKeySequenceMixedKeys" : [
               {
-                "BTTKEYCharacter" : "←",
-                "BTTKEYCode" : 123,
+                "BTTKEYCharacter" : "→",
+                "BTTKEYCode" : 124,
                 "BTTKEYDown" : 1,
                 "BTTKEYOrderRelevant" : 1,
-                "BTTKEYRequired" : 1,
-                "BTTKEYTime" : 5.348851e+08
+                "BTTKEYRequired" : 1
               },
               {
                 "BTTKEYCode" : 57,
-                "BTTKEYTime" : 5.348851e+08
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1
               }
             ],
             "BTTKeySequenceUpKeys" : [
               {
                 "BTTKEYCode" : 57,
-                "BTTKEYTime" : 5.348851e+08
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1
+              }
+            ]
+          }
+        },
+        {
+          "BTTTriggerType" : 624,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTPredefinedActionType" : 194,
+          "BTTPredefinedActionName" : "Toggle Caps Lock On\/Off",
+          "BTTEnabled" : 1,
+          "BTTShortcutKeyCode" : -1,
+          "BTTShortcutModifierKeys" : -1,
+          "BTTOrder" : 1,
+          "BTTKeySequence" : {
+            "BTTPauseBetween" : 0.3,
+            "BTTKeyCount" : 2,
+            "BTTKeySequenceDownKeys" : [
+              {
+                "BTTKEYCharacter" : "↑",
+                "BTTKEYCode" : 126,
+                "BTTKEYDown" : 1,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1
+              }
+            ],
+            "BTTKeySequenceMixedKeys" : [
+              {
+                "BTTKEYCharacter" : "↑",
+                "BTTKEYCode" : 126,
+                "BTTKEYDown" : 1,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1
+              },
+              {
+                "BTTKEYCode" : 57,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1
+              }
+            ],
+            "BTTKeySequenceUpKeys" : [
+              {
+                "BTTKEYCode" : 57,
+                "BTTKEYOrderRelevant" : 1,
+                "BTTKEYRequired" : 1
               }
             ]
           }
