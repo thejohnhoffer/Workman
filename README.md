@@ -10,4 +10,10 @@ Workman keyboard layout for MacOS
  * Open System Preferences, click on the Language & Text icon, and in the Input Menu tab enable the Workman and/or Workman-P layout.
  * Make sure that the Show input menu in menu bar box is also checked.
  * To switch quickly between layouts you can press Command+Space or Command+Option+Space. Note, this hotkey combination conflicts with the default settings for showing Spotlight. Check your settings in System Preferences, Keyboard, Keyboard Shortcuts tab, Spotlight against Keyboard & Text Input.
-
+ * Download [Karabiner](https://pqrs.org/osx/karabiner/)
+    * `cp .config/karabiner/karabiner.json ~/.config/karabiner/`
+ * Downlload [Better Touch Tools](https://www.boastr.net/downloads/)
+    * Open the UI
+        * In the 'Gestures' tab (top)
+            * Click "manage presets" (lower left)
+            * Click "Import" and open btt_preset.json

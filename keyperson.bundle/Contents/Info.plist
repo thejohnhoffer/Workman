@@ -5,15 +5,15 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.sil.ukelele.keyboardlayout.workman</string>
 	<key>CFBundleName</key>
-	<string>Keyman</string>
+	<string>keyperson</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
-	<key>KLInfo_Keyman</key>
+	<key>KLInfo_keyperson</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.workman.keyman</string>
+		<string>org.sil.ukelele.keyboardlayout.workman.keyperson</string>
 		<key>TISIntendedLanguage</key>
-		<string>en-US</string>
+		<string>en</string>
 	</dict>
 </dict>
 </plist>
