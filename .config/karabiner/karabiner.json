@@ -13,7 +13,7 @@
                 },
                 "rules": [
                     {
-                        "description": "Change caps_lock + I/J/K/L to Arrow Keys",
+                        "description": "Change caps_lock ygbh to Arrow Keys",
                         "manipulators": [
                             {
                                 "from": {
@@ -29,7 +29,10 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "up_arrow"
+                                        "key_code": "up_arrow",
+                                        "modifiers": [
+                                            "caps_lock"
+                                        ]
                                     }
                                 ],
                                 "type": "basic"
@@ -48,7 +51,10 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "left_arrow"
+                                        "key_code": "left_arrow",
+                                        "modifiers": [
+                                            "caps_lock"
+                                        ]
                                     }
                                 ],
                                 "type": "basic"
@@ -67,7 +73,10 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "down_arrow"
+                                        "key_code": "down_arrow",
+                                        "modifiers": [
+                                            "caps_lock"
+                                        ]
                                     }
                                 ],
                                 "type": "basic"
@@ -86,7 +95,10 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "right_arrow"
+                                        "key_code": "right_arrow",
+                                        "modifiers": [
+                                            "caps_lock"
+                                        ]
                                     }
                                 ],
                                 "type": "basic"
