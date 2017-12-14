@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.7.195 on 2017-12-13 at 13:38 (EST)-->
+<!--Last edited by Ukelele version 3.2.7.195 on 2017-12-13 at 22:35 (EST)-->
 <!--Created by Ukelele version 2.2.3 on 2012-11-14 at 22:15 (EST)-->
 <keyboard group="126" id="-22514" name="keyperson" maxout="1">
 	<layouts>
@@ -48,7 +48,7 @@
 			<key code="19" output="@"/>
 			<key code="20" output="#"/>
 			<key code="21" output="$"/>
-			<key code="22" output="|"/>
+			<key code="22" output="^"/>
 			<key code="23" output="%"/>
 			<key code="24" output="?"/>
 			<key code="25" output="-"/>
@@ -144,8 +144,8 @@
 			<key code="3" output="4"/>
 			<key code="4" output="&#x001D;"/>
 			<key code="5" output="&#x001C;"/>
-			<key code="6" output="&#x003C;"/>
-			<key code="7" output="&#x003E;"/>
+			<key code="6" output="{"/>
+			<key code="7" output="}"/>
 			<key code="8" output="5"/>
 			<key code="9" output="`"/>
 			<key code="10" output="0"/>
@@ -153,14 +153,14 @@
 			<key code="12" output="1"/>
 			<key code="13" output="2"/>
 			<key code="14" output="3"/>
-			<key code="15" output="{"/>
+			<key code="15" output="&#x003C;"/>
 			<key code="16" output="&#x001E;"/>
-			<key code="17" output="}"/>
+			<key code="17" output="&#x003E;"/>
 			<key code="18" output="!"/>
 			<key code="19" output="@"/>
 			<key code="20" output="#"/>
 			<key code="21" output="$"/>
-			<key code="22" output="|"/>
+			<key code="22" output="^"/>
 			<key code="23" output="%"/>
 			<key code="24" output="?"/>
 			<key code="25" output="-"/>
@@ -170,7 +170,7 @@
 			<key code="29" output="+"/>
 			<key code="30" output="&#x0022;"/>
 			<key code="31" output="9"/>
-			<key code="32" output="^"/>
+			<key code="32" output="|"/>
 			<key code="33" output="_"/>
 			<key code="34" output="8"/>
 			<key code="35" output="0"/>
